@@ -1,0 +1,37 @@
+[
+    {
+        "question": "What is the capital of France?",
+        "options": ["Paris", "London", "Berlin", "Madrid"],
+        "answer": "Paris"
+    },
+    {
+        "question": "Which planet is known as the Red Planet?",
+        "options": ["Earth", "Mars", "Jupiter", "Saturn"],
+        "answer": "Mars"
+    },
+    {
+        "question": "Who wrote the play 'Romeo and Juliet'?",
+        "options": ["Leo Tolstoy", "Mark Twain", "William Shakespeare", "Charles Dickens"],
+        "answer": "William Shakespeare"
+    },
+    {
+        "question": "What is the largest mammal in the world?",
+        "options": ["Elephant", "Blue Whale", "Giraffe", "Hippopotamus"],
+        "answer": "Blue Whale"
+    },
+    {
+        "question": "What is the boiling point of water at sea level?",
+        "options": ["90°C", "100°C", "110°C", "120°C"],
+        "answer": "100°C"
+    },
+    {
+        "question": "Which language is used to style web pages?",
+        "options": ["HTML", "Python", "CSS", "Java"],
+        "answer": "CSS"
+    },
+    {
+        "question": "How many continents are there on Earth?",
+        "options": ["5", "6", "7", "8"],
+        "answer": "7"
+    }
+]
